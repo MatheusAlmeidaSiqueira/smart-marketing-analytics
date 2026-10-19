@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=70"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "smart-marketing-analytics"
+version = "1.0.0"
+description = "Pipeline Excel-Python-MySQL para um dashboard executivo de marketing no Power BI."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "mysql-connector-python==26.7.0",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
