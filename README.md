@@ -6,7 +6,7 @@ uma solução ponta a ponta: Excel como entrada operacional, validação e carga
 Python, persistência transacional no MySQL e análise interativa no Power BI.
 
 > **Portfólio independente.** Todos os dados deste repositório são fictícios e não
-> representam clientes, colaboradores ou resultados da Atlas Copco ou de qualquer
+> representam clientes, colaboradores ou resultados ou de qualquer
 > outra empresa.
 
 ![Visão Executiva do Smart Marketing Analytics](images/visao-executiva.jpg)
